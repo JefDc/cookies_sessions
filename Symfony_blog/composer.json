@@ -1,0 +1,10 @@
+{
+    "name": "jefdc/symfony_blog",
+    "authors": [
+        {
+            "name": "Jef De CONTI",
+            "email": "jefdc05@gmail.com"
+        }
+    ],
+    "require": {}
+}
